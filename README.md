@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagarsapre11" target="blank"><img src="https://img.shields.io/twitter/follow/sagarsapre11?logo=twitter&style=for-the-badge" alt="sagarsapre11" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java Full Stack Development**
 
 - 💬 Ask me about **Web Development, Software Development, Machine Learning, etc.**
 
